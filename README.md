@@ -11,7 +11,9 @@ explore various machine learning and hyperparameter tuning
 techniques to obtain better performance on our test data.
 Then we do performance evaluation of various models.
 
-• UCI Diabetes Dataset [https://archive.ics.uci.edu/ml/datasets/diabetes] 
+* [UCI Diabetes Dataset](https://archive.ics.uci.edu/ml/datasets/diabetes)
+* [Report](https://github.com/poojathakoor/diabetes-hospital-readmission/blob/master/report.pdf)
+
 
 ## Getting Started
 
